@@ -74,7 +74,7 @@ add_routes(
 
 if __name__ == "__main__":
     # Uncomment for testing
-    agent_executor.invoke({"input": "how can langsmith help with testing?"})
+    # agent_executor.invoke({"input": "how can langsmith help with testing?"})
 
     import uvicorn
 
