@@ -1,0 +1,11 @@
+langchain[docarray]
+langchain_openai
+duckduckgo-search
+fastapi
+langserve[all]
+uvicorn
+beautifulsoup4
+pydantic<2.0.0
+langchainhub
+sse_starlette
+httpx
