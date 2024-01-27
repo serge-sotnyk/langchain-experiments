@@ -11,3 +11,4 @@ sse_starlette
 httpx
 jupyter
 notebook
+tavily-python
